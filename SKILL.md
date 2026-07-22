@@ -1,11 +1,6 @@
 ---
 name: nextjs-to-astro
-description: >-
-  Migrate Next.js 13–16 (Pages or App Router) to Astro 7: scrutinize the plan,
-  audit Next residue, scaffold astro@^7, map routes/APIs/env, convert components
-  Astro-first with minimal React islands, align middleware/CSP, prune Next. Use when
-  removing next.config, app/, pages/, or next/* imports. Self-contained; no other
-  skills required. Does not cover CSS/Tailwind or deploy.
+description: Migrate Next.js 13–16 (Pages or App Router) to Astro 7: scrutinize the plan, audit Next residue, scaffold astro@^7, map routes/APIs/env, convert components Astro-first with minimal React islands, align middleware/CSP, prune Next. Use when removing next.config, app/, pages/, or next/* imports. Self-contained; no other skills required. Does not cover CSS/Tailwind or deploy.
 ---
 
 # Next.js → Astro 7 migration
